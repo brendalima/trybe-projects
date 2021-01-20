@@ -27,7 +27,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [X] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [X] 3-4: _HTML Semântico_
-- [X] 3-5: _[Projeto - HTML & CSS](https://github.com/tryber/sd-07-project-lessons-learned/tree/brendalima-lessons-learned-project)_
+- [X] 3-5: _[Projeto - HTML & CSS](https://github.com/brendalima/trybe-projects/tree/master/projeto-blocos-123)_
 
 ##### Bloco 4: Introdução - JavaScript
 
@@ -35,7 +35,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4-2: _JavaScript - Array e loop For_
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [X] 4-4: _JavaScript - Objetos e funções_
-- [X] 4-5: _[Projeto - Playground Functions](https://github.com/tryber/sd-07-project-playground-functions/tree/brendalima-project-playground-functions)_
+- [X] 4-5: _[Projeto - Playground Functions](https://github.com/brendalima/trybe-projects/tree/master/projeto-bloco-4)_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
@@ -43,9 +43,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
 - [X] 5-3: _JavaScript - Eventos_
 - [X] 5-4: _JavaScript - Web Storage_
-- [X] 5-5: _[Projeto - Meme Generator](https://github.com/tryber/sd-07-block5-project-meme-generator/tree/brendalima-meme-generator-project)_
-- [X] 5-6: _[Projeto - Arte com Pixels](https://github.com/tryber/sd-07-block5-project-pixels-art/tree/brendalima-pixels-art-project)_
-- [X] 5-7: _[Projeto - Lista de tarefas](https://github.com/tryber/sd-07-block5-project-todo-list/tree/brendalima-todo-list-project)_
+- [X] 5-5: _[Projeto - Meme Generator](https://github.com/brendalima/trybe-projects/tree/master/projetos-bloco-5/meme-generator)_
+- [X] 5-6: _[Projeto - Arte com Pixels](https://github.com/brendalima/trybe-projects/tree/master/projetos-bloco-5/arte-com-pixels)_
+- [X] 5-7: _[Projeto - Lista de tarefas](https://github.com/brendalima/trybe-projects/tree/master/projetos-bloco-5/lista-de-tarefas)_
 
 ##### Bloco 6: HTML & CSS avançado
 
@@ -54,14 +54,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 6-3: _CSS Flexbox - Part 1_
 - [X] 6-4: _CSS Flexbox - Part 2_
 - [X] 6-5: _CSS Responsivo - Mobile First_
-- [X] 6-6: _[Projeto - Página inicial do Facebook](https://github.com/tryber/sd-07-project-facebook-signup/tree/brendalima-facebook-project)_
+- [X] 6-6: _[Projeto - Página inicial do Facebook](https://github.com/brendalima/trybe-projects/tree/master/projeto-bloco-6)_
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
 - [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [X] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Testes unitários em JavaScript_
-- [X] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/tryber/sd-07-project-js-unit-tests/tree/brendalima-js-unit-tests)_
+- [X] 7-4: _[Projeto - JavaScript Testes Unitários](https://github.com/brendalima/trybe-projects/tree/master/projeto-bloco-7)_
 
 ##### Bloco 8: JavaScript ES6
 
@@ -69,20 +69,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [X] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
 - [X] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [X] 8-5: _[Projeto - Zoo functions](https://github.com/tryber/sd-07-project-zoo-functions/tree/brendalima-zoo-functions)_
+- [X] 8-5: _[Projeto - Zoo functions](https://github.com/brendalima/trybe-projects/tree/master/projeto-bloco-8)_
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
 - [X] 9-1: _JavaScript Assíncrono e Callbacks_
 - [X] 9-2: _JavaScript Promises_
-- [X] 9-3: _[Projeto - Carrinho de Compras](https://github.com/tryber/sd-07-project-shopping-cart/tree/brendalima-project-shopping-cart)_
+- [X] 9-3: _[Projeto - Carrinho de Compras](https://github.com/brendalima/trybe-projects/tree/master/projeto-bloco-9)_
 
 ##### Bloco 10: Jest
 
 - [X] 10-1: _Primeiros passos no Jest_
 - [X] 10-2: _Jest - Testes Assíncronos_
 - [X] 10-3: _Jest - Simulando comportamentos_
-- [X] 10-4: _[Projeto - Jest Assíncrono e Mocking](https://github.com/tryber/sd-07-project-jest-trybe/tree/brendalima-project-jest-trybe)_
+- [X] 10-4: _[Projeto - Jest Assíncrono e Mocking](https://github.com/brendalima/trybe-projects/tree/master/projeto-bloco-10)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
@@ -90,31 +90,31 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 11-1: _'Hello, world!' no React!_
 - [X] 11-2: _Componentes React_
-- [X] 11-3: _[Projeto - Movie Cards Library](https://github.com/tryber/sd-07-project-movie-cards-library/tree/brendalima-movie-card-library)_
+- [X] 11-3: _[Projeto - Movie Cards Library](https://github.com/brendalima/trybe-projects/tree/master/projeto-bloco-11)_
 
 ##### Bloco 12: React
 
 - [X] 12-1: _Components com estado_
 - [X] 12-2: _Eventos e formulários no React_
-- [X] 12-3: _[Projeto - Movie Cards Library Stateful]()_
+- [X] 12-3: _[Projeto - Movie Cards Library Stateful](https://github.com/brendalima/trybe-projects/tree/master/projeto-bloco-12)_
 
 ##### Bloco 13: React
 
 - [X] 13-1: _Melhorando o reuso de componentes: props.children e PropTypes_
 - [X] 13-2: _Ciclo de vida de componentes em React_
 - [X] 13-3: _React Router_
-- [X] 13-4: _[Projeto - Movie Cards Library CRUD]()_
+- [X] 13-4: _[Projeto - Movie Cards Library CRUD](https://github.com/brendalima/trybe-projects/tree/master/projeto-bloco-13)_
 
 ##### Bloco 14: Metodologias Ágeis
 
 - [X] 14-1: _Metodologias Ágeis_
-- [X] 14-2: _[Projeto - Frontend Online Store]()_
+- [X] 14-2: _[Projeto - Frontend Online Store](https://github.com/brendalima/trybe-projects/tree/master/projeto-bloco-14)_
 
 ##### Bloco 15: Testes em React
 
 - [X] 15-1: _Testando React com a React Testing Library_
 - [X] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [X] 15-3: _[Projeto - Testes em React]()_
+- [X] 15-3: _[Projeto - Testes em React](https://github.com/brendalima/trybe-projects/tree/master/projeto-bloco-15)_
 
 ##### Bloco 16: Introdução ao Redux
 
@@ -123,11 +123,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 16-3: _React com Redux - Prática_
 - [X] 16-4: _React com Redux - Parte 2_
 - [X] 16-5: _Testes síncronos com React-Redux_
-- [X] 16-6: _[Projeto - Tabela com filtros de dados]()_
+- [X] 16-6: _[Projeto - Tabela com filtros de dados](https://github.com/brendalima/trybe-projects/tree/master/projeto-bloco-16)_
 
 ##### Bloco 17: Projeto React
 
-- [X] 17-1: _[Projeto - Jogo de Trivia]()_
+- [X] 17-1: _[Projeto - Jogo de Trivia](https://github.com/brendalima/trybe-projects/tree/master/projeto-bloco-17)_
 
 ##### Bloco 18: React & Context API
 
