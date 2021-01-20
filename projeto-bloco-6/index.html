@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="style.css" rel="stylesheet" type="text/css">
+  <title>Cadastro Facebook</title>
+</head>
+<body>
+  <header class="top-bar">
+    <div>
+      <img src="imgs/facebook-logo.png" alt="Logo facebook" class="facebook-logo">
+    </div>
+
+    <div class="form-group">
+      <form onsubmit="return false" class="facebook-login">
+        <div class="form-group">
+          <label id="user-email-phone-label" for="user-email-phone" >Email ou telefone</label>
+          <input type="text" id="user-email-phone" required="required">
+        </div>
+        <div class="form-group">
+          <label id="user-password-label" for="user-password" >Senha</label>
+          <input type="password" autocomplete="on" id="user-password" required="required">
+
+        </div>
+        <div class="form-control">
+          <button type="submit" id="button-login">Entrar</button>
+        </div>
+      </form>
+    </div>
+
+  </header>
+
+  <section class="main-content">
+
+      <div class="left-content">
+        <p id="facebook-slogan">O Facebook ajuda você a se conectar e compartilhar com as pessoas que fazem parte da sua vida.
+        </p>
+        <img id="facebook-networking" src="imgs/networking.png">
+      </div>
+
+      <div id="right-content" class="right-content">
+        <h1>Abra uma conta</h1>
+        <h2 class="quick-easy">É rápido e fácil.</h2>
+
+        <form id="subscribe" onsubmit="return false" class="formSub">
+          <div class="nameComplete">
+            <input id="name" type="text" name="firstname" placeholder="Nome">
+            <input id="lastName" type="text" name="lastname" placeholder="Sobrenome">
+          </div>
+          <div><input id="emailCell" type="text" name="phone_email" placeholder="Celular ou email"></div>
+          <div><input type="password" name="password" autocomplete="on" placeholder="Nova senha"></div>
+          <div class="birthday">
+            <label id="label-birthdate" for="birthdate">Data de nascimento</label>
+            <input type="date-local" id="birthdate" name="birthdate" placeholder="dd/mm/aaaa">
+          </div>
+          <label id="label-gender" for="genderContainer" >Gênero</label>
+          <div id="genderContainer" class="genderContainer">
+            <input type="radio" id="female" value="Feminino" name="gender">
+            <label for="female">Feminino</label>
+            <input type="radio" id="male" value="Masculino" name="gender">
+            <label for="male">Masculino</label>
+            <input type="radio" id="personalized" value="Personalizado" name="gender">
+            <label for="personalized">Personalizado</label>
+          </div>
+          <div id="personalize-container"></div>
+          <!-- Não Code climate! me recuso a botar o campo aqui...
+          quero que ele apareça quando a pessoa clicar e suma quando ela trocar de radio-->
+          <div id="invalidFields" ></div>
+          <div><button type="submit" id="facebook-register">Cadastre-se</button></div>
+
+        </form>
+      </div>
+  </section>
+  <script src="script.js"></script>
+</body>
+</html>

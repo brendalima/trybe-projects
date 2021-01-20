@@ -1,0 +1,58 @@
+.top-bar {
+  background-color: rgb(66, 103, 178);
+  display: flex;
+  justify-content: space-between;
+}
+
+.facebook-logo {
+  height: 100%;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.facebook-login {
+  display: flex;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-control {
+  align-self: flex-end;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.left-content {
+  width: 800px;
+}
+
+.right-content {
+  width: 300px;
+}
+
+.nameComplete input {
+  display: inline-block;
+  width: 45%;
+}
+
+.birthday {
+  display: flex;
+  flex-direction: column;
+}
+
+.genderContainer {
+  display: flex;
+  flex-direction: row;
+}
+
+.outputDisplay {
+  display: flex;
+  flex-direction: column;
+}
